@@ -60,7 +60,6 @@ Le [protocole détaillé](docs/PROTOCOLE.md) précise le plan ; la [banque corri
 
 ## 3. Exécuter le programme
 
-L’expérience est un site statique en HTML, CSS et JavaScript. Elle fonctionne dans un navigateur récent, sans installation de bibliothèque ni compilation.
 
 | Entrée | Usage |
 |---|---|
