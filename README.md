@@ -91,9 +91,6 @@ Réunir les fichiers originaux dans `collecte/`. La page `chercheur.html` permet
 
 Le **critère principal** est la proportion de bonnes réponses aux 12 questions du test final. L’unité statistique est le participant, et non la question.
 
-L’estimation principale est la différence entre les moyennes des conditions visuelle et symbolique, exprimée en points de pourcentage. Le script réalise un test de permutation bilatéral avec 10 000 permutations et une correction Monte-Carlo. Il fournit un intervalle bootstrap percentile à 95 %, avec 5 000 rééchantillonnages de participants dans chaque groupe. La graine est fixée à `20261116` ; le seuil prévu est de 0,05. L’intervalle reste approximatif pour un petit échantillon.
 
-Les démonstrations, passations incomplètes, attributions non conformes et expositions d’apprentissage insuffisantes sont exclues de l’analyse principale. Les doublons identiques sont ignorés ; les contradictions arrêtent l’analyse pour vérification. Les effectifs et motifs d’exclusion doivent être rapportés par condition. Les abandons sans export ne sont pas observables à distance.
 
-Pour les temps, le script retient les réponses correctes, sans onglet masqué, comprises entre 200 et 120 000 ms. Il calcule une médiane par participant, puis une moyenne descriptive des médianes. Ces filtres ne retirent aucune réponse du calcul des scores. Le prétest, le transfert et la régression ajustée sur le niveau initial et la familiarité restent exploratoires.
 
