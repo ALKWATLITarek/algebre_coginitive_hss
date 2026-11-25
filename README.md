@@ -4,6 +4,8 @@
 **École polytechnique — Ingénieur 3A / Master 1 — Année 2026-2027**  
 **Auteur : Tarek Marc Al Kwatli**
 
+
+Je suis très interessé par la pédagogie des mathématiques et l'interêt des représentations visuelles en particulier
 L'objectif de ce projet est de programmer une expérience cognitive portable, la faire passer à quelques personnes et analyser les résultats. Le dépôt rassemble le programme expérimental, son protocole et ce rapport.
 
 **État du projet :** programme disponible ; collecte et résultats empiriques à compléter. Les essais techniques et démonstrations ne constituent pas une collecte de participants.
